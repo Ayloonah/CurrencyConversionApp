@@ -1,5 +1,13 @@
 # CurrencyConverterApp
 
+HOW TO USE: First, download Android Studio.
+            Once this is done, you also want to make sure that you have installed a virtual device. 
+                Note: I would recommend going with at least a Pixel 8 on the SDK 31 for this app as this is what I used, but it may work on a lower device/SDK if your PC does not support it.
+            Then, create a project with the Empty Views Activity template. 
+            Download both of the Java files and move them to your project's myapplication folder. My path looked like this: ''C:\Users\Ayloonah\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication''
+            Download both of the XML files and move them to your project's layout folder. My path looked like this: ''C:\Users\ayloonah\AndroidStudioProjects\MyApplication\app\src\main\res\layout''
+            You will now be able to start the application on the virtual device.
+
 Hello,
 
 For my advanced Java class in college, I was given the task to use Android Studio to create an Android app that converts money from USD to CAD, YEN, and EUR. It also had to allow the user to enter an amount in one of these three currencies to convert it to USD. The conversion rates used here were set to:
